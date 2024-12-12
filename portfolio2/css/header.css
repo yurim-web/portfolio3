@@ -1,0 +1,17 @@
+.header_box {
+  padding: 30px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.header_box > h1 {
+  font-size: 30px;
+  font-weight: 700;
+}
+.header_menu {
+  display: flex;
+  gap: 8%;
+}
